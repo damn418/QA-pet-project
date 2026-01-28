@@ -1,7 +1,12 @@
+import os
+
+from dotenv import load_dotenv
+load_dotenv()
+
 class BaseEndpoints():
     headers = {
             'Content-Type': 'application/json',
-            'Authorization': 'Bearer 3b23a2f6ab776d5c0fd099c2939a840ba46fffb9758eaed23e67eafb7bd6339c'
+            'Authorization': os.getenv('MY_TOKEN')
         }
     
     def __init__(self):
