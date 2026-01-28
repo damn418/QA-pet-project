@@ -17,8 +17,8 @@
 - Оформление заказа
 
 ### Инструменты
-- Jira
-- Test IT
+- YouTrack
+- TestRail
 - Google Sheets
 
 ## Проект 2: API тестирование
