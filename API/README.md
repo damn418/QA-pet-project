@@ -5,7 +5,7 @@
 ## Postman
 Postman-коллекция `API/Postman/GoRest.postman_collection.json`
 
-## Newman report
-[Открыть подробный newman отчет](newman-report/report.png)
+## Newman
+Newman report `API/newman-report/report.html`
 
 ![Скриншот](newman-report/report.png)
